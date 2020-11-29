@@ -17,6 +17,23 @@ Usage
 
 
 
+Config
+------
+
+### Wordlist rules
+
+1.  Lines with "#" anywhere in them are ignored.
+1.  Text in round parens (`()`) is ignored, too.
+    * You can use this to help your editor sort lines by stuff like
+      version numbers.
+1.  Remaining words are split by whitespace and used as values.
+
+
+
+
+
+
+
 <!--#toc stop="scan" -->
 
 
